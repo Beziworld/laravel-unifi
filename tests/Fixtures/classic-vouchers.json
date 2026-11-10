@@ -1,0 +1,22 @@
+{
+  "meta": {"rc": "ok"},
+  "data": [
+    {
+      "_id": "5f8d0d55b54764421b7156c9",
+      "site_id": "5f8d0d55b54764421b7156a1",
+      "create_time": 1794319200,
+      "code": "1234567890",
+      "for_hotspot": false,
+      "admin_name": "api-user",
+      "quota": 1,
+      "duration": 1440,
+      "used": 0,
+      "qos_overwrite": true,
+      "qos_rate_max_up": 512,
+      "qos_rate_max_down": 2048,
+      "qos_usage_quota": 500,
+      "note": "Room 101",
+      "status": "VALID_ONE"
+    }
+  ]
+}

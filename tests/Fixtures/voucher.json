@@ -1,0 +1,15 @@
+{
+  "id": "6a2b1f0e-3c4d-4e5f-8a9b-0c1d2e3f4a5b",
+  "createdAt": "2026-11-10T14:00:00Z",
+  "name": "hotel-guest",
+  "code": "4861409510",
+  "authorizedGuestLimit": 1,
+  "authorizedGuestCount": 0,
+  "activatedAt": null,
+  "expiresAt": null,
+  "expired": false,
+  "timeLimitMinutes": 1440,
+  "dataUsageLimitMBytes": 1024,
+  "rxRateLimitKbps": 1000,
+  "txRateLimitKbps": 1000
+}

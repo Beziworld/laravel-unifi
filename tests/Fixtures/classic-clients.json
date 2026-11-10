@@ -1,0 +1,20 @@
+{
+  "meta": {"rc": "ok"},
+  "data": [
+    {
+      "_id": "5f8d0d55b54764421b715700",
+      "mac": "AA:BB:CC:DD:EE:01",
+      "hostname": "guest-phone",
+      "ip": "192.168.10.23",
+      "essid": "Hotel Guest",
+      "ap_mac": "94:2a:6f:26:c6:ca",
+      "is_guest": true,
+      "is_wired": false,
+      "authorized": true,
+      "rx_bytes": 1048576,
+      "tx_bytes": 524288,
+      "first_seen": 1794316000,
+      "last_seen": 1794319200
+    }
+  ]
+}

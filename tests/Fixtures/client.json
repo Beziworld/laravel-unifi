@@ -1,0 +1,10 @@
+{
+  "type": "WIRELESS",
+  "id": "497f6eca-6276-4993-bfeb-53cbbbba6f08",
+  "name": "Guest iPhone",
+  "connectedAt": "2026-11-10T13:45:12Z",
+  "ipAddress": "192.168.10.23",
+  "access": {"type": "GUEST", "authorized": false},
+  "macAddress": "AA:BB:CC:DD:EE:01",
+  "uplinkDeviceId": "4a0c3f2e-1b5d-4c6e-9f7a-8b9c0d1e2f3a"
+}

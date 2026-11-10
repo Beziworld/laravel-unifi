@@ -1,0 +1,13 @@
+{
+  "id": "4a0c3f2e-1b5d-4c6e-9f7a-8b9c0d1e2f3a",
+  "name": "IW HD",
+  "model": "UHDIW",
+  "supported": true,
+  "macAddress": "94:2A:6F:26:C6:CA",
+  "ipAddress": "192.168.1.55",
+  "state": "ONLINE",
+  "firmwareVersion": "6.6.55",
+  "firmwareUpdatable": true,
+  "features": ["accessPoint", "switching"],
+  "interfaces": ["ports", "radios"]
+}

@@ -1,0 +1,12 @@
+{
+  "action": "AUTHORIZE_GUEST_ACCESS",
+  "grantedAuthorization": {
+    "authorizedAt": "2026-11-10T14:00:00Z",
+    "authorizationMethod": "API",
+    "expiresAt": "2026-11-11T14:00:00Z",
+    "dataUsageLimitMBytes": 1024,
+    "rxRateLimitKbps": 1000,
+    "txRateLimitKbps": 1000,
+    "usage": {"durationSec": 0, "rxBytes": 0, "txBytes": 0, "bytes": 0}
+  }
+}

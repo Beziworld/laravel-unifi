@@ -1,0 +1,14 @@
+{
+  "meta": {"rc": "ok"},
+  "data": [
+    {
+      "_id": "6730a1b2c3d4e5f600000001",
+      "key": "EVT_WU_Connected",
+      "msg": "User[aa:bb:cc:dd:ee:01] has connected to AP[94:2a:6f:26:c6:ca]",
+      "subsystem": "wlan",
+      "site_id": "5f8d0d55b54764421b7156a1",
+      "time": 1794319200000,
+      "datetime": "2026-11-10T14:00:00Z"
+    }
+  ]
+}
